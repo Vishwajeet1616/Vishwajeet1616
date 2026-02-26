@@ -12,13 +12,6 @@ I am a **Graduate Computer Engineer** from Sinhgad Institute of Technology & Sci
 
 ---
 
-### 🧠 Strategic Interests & Philosophy
-* **Strategic Psychology:** Deeply fascinated by **behavioral psychology** and themes of strategy (inspired by the *48 Laws of Power*), applying these insights to model optimization and user experience.
-* **Practical Automation:** I run **VISHWA PLAYZ** on YouTube not just for entertainment, but as a testing ground for my **AI video generators** and automated content workflows.
-* **Competitive Leadership:** Former **Volleyball Team Captain** and sports coordinator. I bring leadership and competitive strategy from the field into my data science projects.
-
----
-
 ### 🛠️ Technical Toolkit
 
 | Category | Skills & Tools |
@@ -39,13 +32,10 @@ I am a **Graduate Computer Engineer** from Sinhgad Institute of Technology & Sci
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<a href="https://github.com/Vishwajeet1616">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishwajeet1616&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeet1616&layout=compact&langs_count=7&theme=radical"/>
-</a>
-</p>
+### 🧠 Strategic Interests & Philosophy
+* **Strategic Psychology:** Deeply fascinated by **behavioral psychology** and themes of strategy (inspired by the *48 Laws of Power*), applying these insights to model optimization and user experience.
+* **Practical Automation:** I run **VISHWA PLAYZ** on YouTube not just for entertainment, but as a testing ground for my **AI video generators** and automated content workflows.
+* **Competitive Leadership:** Former **Volleyball Team Captain** and sports coordinator. I bring leadership and competitive strategy from the field into my data science projects.
 
 ---
 

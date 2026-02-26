@@ -41,7 +41,7 @@ I am a **Graduate Computer Engineer** from Sinhgad Institute of Technology & Sci
 
 ### 📫 Let's Connect:
 * **LinkedIn:** [vishwajeet-pawar](https://www.linkedin.com/in/vishwajeetpawar20041605/)
-* **YouTube:** [VISHWA PLAYZ](https://youtube.com/@VISHWAPLAYZ)
+* **YouTube:** [VISHWA PLAYZ](https://www.youtube.com/@VISHWAISLIVE-es8sx)
 * **Location:** Pune/Satara, Maharashtra 
 
 *"Refining technical skills into practical expertise."* 

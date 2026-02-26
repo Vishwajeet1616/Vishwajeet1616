@@ -1,50 +1,57 @@
 # Hi there, I'm Vishwajeet Pawar 👋
-**Data Science & AI/ML Aspirant | Graduate Computer Engineer**
+### Data Science & AI/ML Engineer | Computer Engineering Graduate
 
-[cite_start]I am a proactive and detail-oriented Computer Engineer specializing in Data Science and Artificial Intelligence[cite: 1, 2, 5]. [cite_start]My focus is on developing predictive models and automated workflows that drive impactful, data-driven solutions[cite: 7].
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+I am a **Graduate Computer Engineer** from Sinhgad Institute of Technology & Science. My focus is on refining academic knowledge in **Machine Learning, Deep Learning, and NLP** into practical, impactful expertise. I am passionate about developing predictive models and automated workflows to drive data-driven solutions.
 
 ---
 
-### 🚀 Featured Projects
-
-#### 📈 [Demand Forecasting & Inventory Optimization](https://github.com/Vishwajeet1616/Demand_Forecasting_and_Inventory_Optimization)
-[cite_start]A Machine Learning project focused on analyzing historical sales to uncover trends and optimize stock levels[cite: 12, 13].
-- [cite_start]**Tech Stack:** Python, Pandas, scikit-learn, TensorFlow/Keras[cite: 15].
-- [cite_start]**Key Insight:** Built and compared **Random Forest**, **LSTM**, and **Time Series** models to create an interactive prediction system[cite: 16].
-
-#### 🎮 [Automated AI Video Highlight Generator](https://github.com/Vishwajeet1616/AI_Gameplay-_Highlight_Generator)
-[cite_start]An AI-powered web application that automatically extracts key moments from full-length videos to streamline content creation[cite: 22, 23].
-- [cite_start]**Tech Stack:** Python, Flask, ML algorithms, and video processing libraries[cite: 24].
-- [cite_start]**Focus:** Backend architecture development and UI refinement for efficient automated processing[cite: 25].
+### 🧠 Strategic Interests & Philosophy
+* **Strategic Psychology:** Deeply fascinated by **behavioral psychology** and themes of strategy (inspired by the *48 Laws of Power*), applying these insights to model optimization and user experience.
+* **Practical Automation:** I run **VISHWA PLAYZ** on YouTube not just for entertainment, but as a testing ground for my **AI video generators** and automated content workflows.
+* **Competitive Leadership:** Former **Volleyball Team Captain** and sports coordinator. I bring leadership and competitive strategy from the field into my data science projects.
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-| Category | Skills |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, SQL [cite: 9, 40] |
-| **Data Science** | [cite_start]Statistical Analysis, EDA, Machine Learning, NLP [cite: 9] |
-| **Deep Learning** | [cite_start]Neural Networks, Deep Learning Architectures [cite: 9, 43] |
-| **Visualization** | [cite_start]Tableau, PowerBI, Microsoft Excel [cite: 9, 41] |
-| **Database** | [cite_start]SQL, PostgreSQL [cite: 30, 39] |
+| **Languages** | Python, SQL  |
+| **Core AI/ML** | Machine Learning, Deep Learning, NLP, Statistical Analysis  |
+| **Data Science** | EDA, Pandas, Scikit-learn, TensorFlow/Keras  |
+| **Visualization** |Tableau, PowerBI, Microsoft Excel |
+| **Workflow** | Git/GitHub, n8n, Flask, Linux |
+| **Multimedia** | OBS, DaVinci Resolve (Applied for AI-video automation) |
 
 ---
 
 ### 🎓 Education & Certifications
-- [cite_start]**Post Graduate Program in ML & AI** – Imarticus Learning (2026)[cite: 9].
-- [cite_start]**Bachelor of Engineering in Computer** – Sinhgad Institute of Technology and Science [CGPA: 8.32][cite: 9].
-- [cite_start]**Certifications:** Python & PostgreSQL (IIT Bombay), Software Conceptual Design (NPTEL), Barclays Life Skills[cite: 28, 29, 30].
-
-### 🏆 Leadership & Achievements
-- [cite_start]**Team Captain:** Led the college Volleyball team to victory in 10+ inter-collegiate events[cite: 33, 35].
-- [cite_start]**Sports Coordinator:** Managed athletic events for the Computer Department[cite: 36].
+* **Post Graduate Program in ML & AI** – Imarticus Learning (2026).
+* **B.E. in Computer Engineering** – Sinhgad Institute of Technology & Science .
+* [cite_start]**Certifications:** RDBMS PostgreSQL & Python 3.4.3 (IIT Bombay), Software Conceptual Design (NPTEL).
 
 ---
 
-### 📫 Connect with me:
-- [cite_start]**Location:** Pune/Satara, Maharashtra [cite: 9, 47]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Vishwajeet1616](https://github.com/Vishwajeet1616)
+### 📊 GitHub Stats
+<p align="left">
+<a href="https://github.com/Vishwajeet1616">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishwajeet1616&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeet1616&layout=compact&langs_count=7&theme=radical"/>
+</a>
+</p>
 
-*"Transforming data into actionable intelligence."*
+---
+
+### 📫 Let's Connect:
+* **LinkedIn:** [vishwajeet-pawar](https://www.linkedin.com/in/vishwajeetpawar20041605/)
+* **YouTube:** [VISHWA PLAYZ](https://youtube.com/@VISHWAPLAYZ)
+* **Location:** Pune/Satara, Maharashtra 
+
+*"Refining technical skills into practical expertise."* 

@@ -28,7 +28,7 @@ I am a **Graduate Computer Engineer** from Sinhgad Institute of Technology & Sci
 ### 🎓 Education & Certifications
 * **Post Graduate Program in ML & AI** – Imarticus Learning (2026).
 * **B.E. in Computer Engineering** – Sinhgad Institute of Technology & Science .
-* [cite_start]**Certifications:** RDBMS PostgreSQL & Python 3.4.3 (IIT Bombay), Software Conceptual Design (NPTEL).
+* **Certifications:** RDBMS PostgreSQL & Python 3.4.3 (IIT Bombay), Software Conceptual Design (NPTEL).
 
 ---
 
